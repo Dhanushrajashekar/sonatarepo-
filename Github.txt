@@ -1,0 +1,2 @@
+Github
+Git Hub acts as a remote repository server , were the data stored in our local repo can be pushed into the remote repo
