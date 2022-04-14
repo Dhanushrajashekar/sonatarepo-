@@ -1,0 +1,2 @@
+1.Create Repository 
+git init [project name]
