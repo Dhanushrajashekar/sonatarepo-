@@ -1,2 +1,5 @@
 Github
 Git Hub acts as a remote repository server , were the data stored in our local repo can be pushed into the remote repo
+
+some commands for github 
+git remote add origin "repo link" --> This helps us to connect our remote repo to our local repo
